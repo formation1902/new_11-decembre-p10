@@ -1,0 +1,1583 @@
+[
+{
+  "text": "Hey. I need to get from Goiania to Hamburg\nBudget isn't an issue, can you just give me the best options?",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 24,
+      "endPos": 31
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 35,
+      "endPos": 42
+    }
+  ]
+},{
+  "text": "Is it possible to get from Alexandria to Fukuoka for 3200",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 27,
+      "endPos": 37
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 41,
+      "endPos": 48
+    },
+    {
+      "entity": "budget",
+      "startPos": 53,
+      "endPos": 57
+    }
+  ]
+},{
+  "text": "I need to get to Fortaleza from Paris. We will be 2 adults and 7 children",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 32,
+      "endPos": 37
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 17,
+      "endPos": 26
+    }
+  ]
+},{
+  "text": "Hi we live in Miami and are trying to plan our next vacay, can you help?",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 14,
+      "endPos": 19
+    }
+  ]
+},{
+  "text": "I want to dream of the best vacations to Santo Domingo from Calgary.",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 60,
+      "endPos": 67
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 41,
+      "endPos": 54
+    }
+  ]
+},{
+  "text": "Hi. I'm just here at work.... stuck at the old computer desk\nStuck dreaming about a better place than this one\nI have been wanting to get out of Santa Cruz for ages now\nBut I never have any vacation days..",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 145,
+      "endPos": 155
+    }
+  ]
+},{
+  "text": "Hello. I have been offered a prestigious, exclusive, international internship\nThey are very uncommon\nVery rare and very impressive\nAnyway\nI'm looking to go to Milan from Belem",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 170,
+      "endPos": 175
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 159,
+      "endPos": 164
+    }
+  ]
+},{
+  "text": "NYC to St. Louis",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 0,
+      "endPos": 3
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 7,
+      "endPos": 16
+    }
+  ]
+},{
+  "text": "i am currently in philadelphia trying to get a photograph celebrities but i need to hit up mexico city next week",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 18,
+      "endPos": 30
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 91,
+      "endPos": 102
+    }
+  ]
+},{
+  "text": "hi i want to go to toluca from burlington ok",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 31,
+      "endPos": 41
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 19,
+      "endPos": 25
+    }
+  ]
+},{
+  "text": "I need to bring 6 clients out to impress them for a few days. 7 adults in total, and we're looking to leave Queenstown any time after September 20th. What've you got in Rome that sounds swanky.",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 108,
+      "endPos": 118
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 169,
+      "endPos": 173
+    },
+    {
+      "entity": "date_depart",
+      "startPos": 134,
+      "endPos": 148
+    }
+  ]
+},{
+  "text": "Need to go to Vancouver",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_destination",
+      "startPos": 14,
+      "endPos": 23
+    }
+  ]
+},{
+  "text": "I'd like to find a vacation from Kabul to Santiago for 1800. I dont care when i go and it's just me traveling",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 33,
+      "endPos": 38
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 42,
+      "endPos": 50
+    },
+    {
+      "entity": "budget",
+      "startPos": 55,
+      "endPos": 59
+    }
+  ]
+},{
+  "text": "Finally get to take a vacation! I'm looking for trips leaving from Nagoya\nWhat do you have going to Rome?",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 67,
+      "endPos": 73
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 100,
+      "endPos": 104
+    }
+  ]
+},{
+  "text": "I would like you to find me, my wife, and my 4 children, a trip to Guadalajara from Seattle.",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 84,
+      "endPos": 91
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 67,
+      "endPos": 78
+    }
+  ]
+},{
+  "text": "Hello there! Looking to get away between August 27th and August 30th! Can you help me?",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "date_depart",
+      "startPos": 41,
+      "endPos": 52
+    },
+    {
+      "entity": "date_retour",
+      "startPos": 57,
+      "endPos": 68
+    }
+  ]
+},{
+  "text": "I have 4 kids i want to take on a trip to see their mom in Santa Cruz",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_destination",
+      "startPos": 59,
+      "endPos": 69
+    }
+  ]
+},{
+  "text": "I sure hope! I want to go to Santo Domingo!",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_destination",
+      "startPos": 29,
+      "endPos": 42
+    }
+  ]
+},{
+  "text": "I need to book a business trip - something impressive... thinking\u2026 las vegas\n3 adults find me the best you can out of mannheim after september 11th",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 118,
+      "endPos": 126
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 67,
+      "endPos": 76
+    },
+    {
+      "entity": "date_depart",
+      "startPos": 133,
+      "endPos": 147
+    }
+  ]
+},{
+  "text": "I am leaving from Beijing and want to go to Curitiba",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 18,
+      "endPos": 25
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 44,
+      "endPos": 52
+    }
+  ]
+},{
+  "text": "Hey, I'm looking for a trip from Tokyo to Atlanta.",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 33,
+      "endPos": 38
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 42,
+      "endPos": 49
+    }
+  ]
+},{
+  "text": "Hi I want to go to Tijuana from Santo domingo for 2400",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 32,
+      "endPos": 45
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 19,
+      "endPos": 26
+    },
+    {
+      "entity": "budget",
+      "startPos": 50,
+      "endPos": 54
+    }
+  ]
+},{
+  "text": "Hi i wanna look into packages to san antonio",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_destination",
+      "startPos": 33,
+      "endPos": 44
+    }
+  ]
+},{
+  "text": "I would like to find a vacation between the 24th and 27th from San Francisco to Fort Lauderdale for 3800",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 63,
+      "endPos": 76
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 80,
+      "endPos": 95
+    },
+    {
+      "entity": "date_depart",
+      "startPos": 44,
+      "endPos": 48
+    },
+    {
+      "entity": "date_retour",
+      "startPos": 53,
+      "endPos": 57
+    },
+    {
+      "entity": "budget",
+      "startPos": 100,
+      "endPos": 104
+    }
+  ]
+},{
+  "text": "whats available in atlanta starting august 30th? we're leaving from north vancouver",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 68,
+      "endPos": 83
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 19,
+      "endPos": 26
+    },
+    {
+      "entity": "date_depart",
+      "startPos": 36,
+      "endPos": 47
+    }
+  ]
+},{
+  "text": "I have investment meetings in Sao Paulo, the dates are flexible, but I need to get there asap",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_destination",
+      "startPos": 30,
+      "endPos": 39
+    },
+    {
+      "entity": "date_depart",
+      "startPos": 89,
+      "endPos": 93
+    }
+  ]
+},{
+  "text": "me and my incredibly fun friends wanna get to phoenix from our homes in Hiroshima for 12800",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 72,
+      "endPos": 81
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 46,
+      "endPos": 53
+    },
+    {
+      "entity": "budget",
+      "startPos": 86,
+      "endPos": 91
+    }
+  ]
+},{
+  "text": "Hi. I'd like to book a trip from Nagoya to Phoenix from August 15th to August 29th.",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 33,
+      "endPos": 39
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 43,
+      "endPos": 50
+    },
+    {
+      "entity": "date_depart",
+      "startPos": 56,
+      "endPos": 67
+    },
+    {
+      "entity": "date_retour",
+      "startPos": 71,
+      "endPos": 82
+    }
+  ]
+},{
+  "text": "Hey there, I\u2019m looking to check out a few destinations to see if they\u2019ll be appropriate for me to accept an internship in. I want to travel from August 27-30, just enough to get a taste of each location.\nI am leaving from Monterrey and I would like to spend 5200 at most, as my internship is unpaid.\nIs there anything available to Kobe for these dates and price?",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 222,
+      "endPos": 231
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 331,
+      "endPos": 335
+    },
+    {
+      "entity": "date_depart",
+      "startPos": 145,
+      "endPos": 154
+    },
+    {
+      "entity": "date_retour",
+      "startPos": 155,
+      "endPos": 157
+    },
+    {
+      "entity": "budget",
+      "startPos": 258,
+      "endPos": 262
+    }
+  ]
+},{
+  "text": "I want to go to Hamburg from Washington. no more than 1000.",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 29,
+      "endPos": 39
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 16,
+      "endPos": 23
+    },
+    {
+      "entity": "budget",
+      "startPos": 54,
+      "endPos": 58
+    }
+  ]
+},{
+  "text": "Hi there. I'd like to go to somewhere new. departing from Rome. after September 8",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 58,
+      "endPos": 62
+    },
+    {
+      "entity": "date_depart",
+      "startPos": 70,
+      "endPos": 81
+    }
+  ]
+},{
+  "text": "I wanna go to San Juan",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_destination",
+      "startPos": 14,
+      "endPos": 22
+    }
+  ]
+},{
+  "text": "HaaaAAAaaaYYYY. I\u2019m just a normal girl, just like everybody else, I just wanna go to Monterrey ok??",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_destination",
+      "startPos": 85,
+      "endPos": 94
+    }
+  ]
+},{
+  "text": "you do vacation deals out of rome, yes?",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 29,
+      "endPos": 33
+    }
+  ]
+},{
+  "text": "I\u2019d like to see where I can go from Hiroshima. Between now and September 5",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 36,
+      "endPos": 45
+    },
+    {
+      "entity": "date_depart",
+      "startPos": 55,
+      "endPos": 58
+    },
+    {
+      "entity": "date_retour",
+      "startPos": 63,
+      "endPos": 74
+    }
+  ]
+},{
+  "text": "Hi. going to throw a bunch of options at you, try to keep up\nFirstly want to know about trips from Seattle to Belo Horizonte",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 99,
+      "endPos": 106
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 110,
+      "endPos": 124
+    }
+  ]
+},{
+  "text": "I'm so excited, I get to take my entire team anywhere I want! Money is no object. Just gotta make it fit into out busy schedule. We can only go between August 31 and September 3rd.",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "date_depart",
+      "startPos": 152,
+      "endPos": 161
+    },
+    {
+      "entity": "date_retour",
+      "startPos": 166,
+      "endPos": 179
+    }
+  ]
+},{
+  "text": "Hi there, I'm looking to go to Stuttgart please.",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_destination",
+      "startPos": 31,
+      "endPos": 40
+    }
+  ]
+},{
+  "text": "hey so i need 2 get my parents out of town. where can u ship em between septemeber 2 and 13th for 3500 dollars?\nleaving from montreal ",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 125,
+      "endPos": 133
+    },
+    {
+      "entity": "date_depart",
+      "startPos": 72,
+      "endPos": 84
+    },
+    {
+      "entity": "date_retour",
+      "startPos": 89,
+      "endPos": 93
+    },
+    {
+      "entity": "budget",
+      "startPos": 98,
+      "endPos": 110
+    }
+  ]
+},{
+  "text": "Hi I work for a big multinational corporation and they are sending me to San Diego. I'm presently working out of Tokyo.",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 113,
+      "endPos": 118
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 73,
+      "endPos": 82
+    }
+  ]
+},{
+  "text": "If we can find something for less than 3000$ lets try and book something",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "budget",
+      "startPos": 39,
+      "endPos": 44
+    }
+  ]
+},{
+  "text": "My secretary is on vacation so I have to book my own flights today. Definitely feels strange\nPlease book: San Diego to Rome",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 106,
+      "endPos": 115
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 119,
+      "endPos": 123
+    }
+  ]
+},{
+  "text": "Hi there. I need to go from Beijing to Montreal from Sept 12-16\n1800 max",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 28,
+      "endPos": 35
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 39,
+      "endPos": 47
+    },
+    {
+      "entity": "date_depart",
+      "startPos": 53,
+      "endPos": 60
+    },
+    {
+      "entity": "date_retour",
+      "startPos": 61,
+      "endPos": 63
+    },
+    {
+      "entity": "budget",
+      "startPos": 64,
+      "endPos": 68
+    }
+  ]
+},{
+  "text": "London to Burlington. Sept 12 to 25\nFor one\nGot anything?",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 0,
+      "endPos": 6
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 10,
+      "endPos": 20
+    },
+    {
+      "entity": "date_depart",
+      "startPos": 22,
+      "endPos": 29
+    },
+    {
+      "entity": "date_retour",
+      "startPos": 33,
+      "endPos": 35
+    }
+  ]
+},{
+  "text": "Hello! I want to book a trip for two adults and two children from August 25th to August 31st. We have several destinations in mind. Do you have any packages for Manaus?",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_destination",
+      "startPos": 161,
+      "endPos": 167
+    },
+    {
+      "entity": "date_depart",
+      "startPos": 66,
+      "endPos": 77
+    },
+    {
+      "entity": "date_retour",
+      "startPos": 81,
+      "endPos": 92
+    }
+  ]
+},{
+  "text": "Hi there, I'd like to take my grandkids on vacation to Brasilia.",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_destination",
+      "startPos": 55,
+      "endPos": 63
+    }
+  ]
+},{
+  "text": "i wanna go 2 santa cruz from kabul",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 29,
+      "endPos": 34
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 13,
+      "endPos": 23
+    }
+  ]
+},{
+  "text": "Me and my terrific wife are actually getting married in Porto and wanna honeymoon in Montreal",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 56,
+      "endPos": 61
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 85,
+      "endPos": 93
+    }
+  ]
+},{
+  "text": "Baltimore to Sacramento",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 0,
+      "endPos": 9
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 13,
+      "endPos": 23
+    }
+  ]
+},{
+  "text": "Kabul to Kingston, 11 adults",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 0,
+      "endPos": 5
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 9,
+      "endPos": 17
+    }
+  ]
+},{
+  "text": "Hi I live in Seattle and I really have to get out of this seedy town for a while",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 13,
+      "endPos": 20
+    }
+  ]
+},{
+  "text": "I need a booking for 6 adults from Milan to Punta Cana",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 35,
+      "endPos": 40
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 44,
+      "endPos": 54
+    }
+  ]
+},{
+  "text": "I\u2019m trying to get from Milan to a bunch of different possible internship spots. It needs to be both between Aug 31 and Sept 3",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 23,
+      "endPos": 28
+    },
+    {
+      "entity": "date_depart",
+      "startPos": 108,
+      "endPos": 114
+    },
+    {
+      "entity": "date_retour",
+      "startPos": 119,
+      "endPos": 125
+    }
+  ]
+},{
+  "text": "Hello. i want to go to buenos aires\ni live in puebla",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 46,
+      "endPos": 52
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 23,
+      "endPos": 35
+    }
+  ]
+},{
+  "text": "Hi there, I really want to go to Osaka but don't really know what kind of trip I want. I heard from my friend you guys have a wide range of offerings so I want to check out what are the availabilities for Osaka.",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_destination",
+      "startPos": 33,
+      "endPos": 38
+    }
+  ]
+},{
+  "text": "Hey hey. Got 6 days off starting Sept 8. Flying out from Cleveland. Got any recommendations?",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 57,
+      "endPos": 66
+    },
+    {
+      "entity": "date_depart",
+      "startPos": 33,
+      "endPos": 39
+    }
+  ]
+},{
+  "text": "hey, i would like to find an affordable package to Hiroshima from Alexandria.",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 66,
+      "endPos": 76
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 51,
+      "endPos": 60
+    }
+  ]
+},{
+  "text": "I want to go to brasilia from birmingham",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 30,
+      "endPos": 40
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 16,
+      "endPos": 24
+    }
+  ]
+},{
+  "text": "I want to look at trips from San Jose to Dublin for 3500 and under.",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 29,
+      "endPos": 37
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 41,
+      "endPos": 47
+    },
+    {
+      "entity": "budget",
+      "startPos": 52,
+      "endPos": 56
+    }
+  ]
+},{
+  "text": "I would like to find a trip to Punta Cana :slightly_smiling_face: I am leaving from :slightly_smiling_face: Birmingham :slightly_smiling_face:",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 108,
+      "endPos": 118
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 31,
+      "endPos": 41
+    }
+  ]
+},{
+  "text": "Burlington to Busan. Aug 30 to Sept 10. Got a flight dude?",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 0,
+      "endPos": 10
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 14,
+      "endPos": 19
+    },
+    {
+      "entity": "date_depart",
+      "startPos": 21,
+      "endPos": 27
+    },
+    {
+      "entity": "date_retour",
+      "startPos": 31,
+      "endPos": 38
+    }
+  ]
+},{
+  "text": "I would like to find a hotel near a park, ideally. I only have 4500 between me and my assistant. We were thinking about looking for trips to Manaus first, we can leave from anywhere.",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_destination",
+      "startPos": 141,
+      "endPos": 147
+    },
+    {
+      "entity": "budget",
+      "startPos": 63,
+      "endPos": 67
+    }
+  ]
+},{
+  "text": "Hey I'm thinking of going from St. Petersburg to Hamburg, can you help me?",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 31,
+      "endPos": 45
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 49,
+      "endPos": 56
+    }
+  ]
+},{
+  "text": "buenos aires pls i go from mannheim",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 27,
+      "endPos": 35
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 0,
+      "endPos": 12
+    }
+  ]
+},{
+  "text": "ok book it for 5. we\u2019ll leave from san diego",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 35,
+      "endPos": 44
+    }
+  ]
+},{
+  "text": "Hi there. I need to go to Tel Aviv for a meeting\nAre there any flights from Paris?",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 76,
+      "endPos": 81
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 26,
+      "endPos": 34
+    }
+  ]
+},{
+  "text": "Please find a flight from Beijing to Kochi for me. Sept 16 to 20",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 26,
+      "endPos": 33
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 37,
+      "endPos": 42
+    },
+    {
+      "entity": "date_depart",
+      "startPos": 51,
+      "endPos": 58
+    },
+    {
+      "entity": "date_retour",
+      "startPos": 62,
+      "endPos": 64
+    }
+  ]
+},{
+  "text": "Rio de Janeiro to anywhere, stat. ",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 0,
+      "endPos": 14
+    }
+  ]
+},{
+  "text": "Hi looking to book a trip to SL",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_destination",
+      "startPos": 29,
+      "endPos": 31
+    }
+  ]
+},{
+  "text": "Hi , looking for a business class package to Philadelphia, leaving Ciudad Juarez, after August 31st",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 67,
+      "endPos": 80
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 45,
+      "endPos": 57
+    },
+    {
+      "entity": "date_depart",
+      "startPos": 88,
+      "endPos": 99
+    }
+  ]
+},{
+  "text": "Bonjour! I make ze pastry for a living. I need to travel to Ulsan, a buddy of a buddy of an aunt's 3rd husband has ze most extrodinary recipe that I must get.",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_destination",
+      "startPos": 60,
+      "endPos": 65
+    }
+  ]
+},{
+  "text": "I want to go on a vacation from Munich.",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 32,
+      "endPos": 38
+    }
+  ]
+},{
+  "text": "I need to go to Buenos Aires.",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_destination",
+      "startPos": 16,
+      "endPos": 28
+    }
+  ]
+},{
+  "text": "Why hello there! Can you see what's available for North Vancouver from Sydney?",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 71,
+      "endPos": 77
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 50,
+      "endPos": 65
+    }
+  ]
+},{
+  "text": "Hi! I'm looking to book a trip from Termina to Atlantis with my family. This includes 1 adult and 3 kids. My budget is at most $3300.",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 36,
+      "endPos": 43
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 47,
+      "endPos": 55
+    },
+    {
+      "entity": "budget",
+      "startPos": 127,
+      "endPos": 132
+    }
+  ]
+},{
+  "text": "Hi there, I\u2019m off between August 25 and September 11. I saved up 4000 for a nice trip. If I flew out from San Francisco, what are your suggestions for where I can go?",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 106,
+      "endPos": 119
+    },
+    {
+      "entity": "date_depart",
+      "startPos": 26,
+      "endPos": 35
+    },
+    {
+      "entity": "date_retour",
+      "startPos": 40,
+      "endPos": 52
+    },
+    {
+      "entity": "budget",
+      "startPos": 65,
+      "endPos": 69
+    }
+  ]
+},{
+  "text": "u do buenos aires to hiroshima, and if so at what cost",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 5,
+      "endPos": 17
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 21,
+      "endPos": 30
+    }
+  ]
+},{
+  "text": "Hi, I am the team manager for the Phoenix Sportsteam and I need to book the guys a short vacation, they need to relax for a few days. We are having a crappy season.",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 34,
+      "endPos": 41
+    }
+  ]
+},{
+  "text": "Boy oh boy! I got these 3 clients and these guys gotta have the best of the best, don't ask me why! So what do you have in Dublin that will impress the fellas?",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_destination",
+      "startPos": 123,
+      "endPos": 129
+    }
+  ]
+},{
+  "text": "I don't care what you've been programmed to call yourself. Just get me from London to Cairo.",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 76,
+      "endPos": 82
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 86,
+      "endPos": 91
+    }
+  ]
+},{
+  "text": "august 25-september 3",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "date_depart",
+      "startPos": 0,
+      "endPos": 9
+    },
+    {
+      "entity": "date_retour",
+      "startPos": 10,
+      "endPos": 21
+    }
+  ]
+},{
+  "text": "I need to go to beijing from Atlanta",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 29,
+      "endPos": 36
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 16,
+      "endPos": 23
+    }
+  ]
+},{
+  "text": "I need to book 4 kids and one adult to Rio de Janeiro, departing from Queenstown.",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 70,
+      "endPos": 80
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 39,
+      "endPos": 53
+    }
+  ]
+},{
+  "text": "Hi! I'd like to book a trip to Tel Aviv from Tijuana. I was wondering if there are any packages from August 23rd to 26th for $3400 for 2 adults. My dates are also flexible.",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 45,
+      "endPos": 52
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 31,
+      "endPos": 39
+    },
+    {
+      "entity": "date_depart",
+      "startPos": 101,
+      "endPos": 112
+    },
+    {
+      "entity": "date_retour",
+      "startPos": 116,
+      "endPos": 120
+    },
+    {
+      "entity": "budget",
+      "startPos": 125,
+      "endPos": 130
+    }
+  ]
+},{
+  "text": "THIS IS WHAT I NEED: TIX FOR 3 ADULTS FROM BERLIN TO SENDAI. LEAVING SEPT 2 OR SOMETIME CLOSE AFTER THAT. CAN I GET THIS DONE FOR &lt;$2400?",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 43,
+      "endPos": 49
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 53,
+      "endPos": 59
+    },
+    {
+      "entity": "date_depart",
+      "startPos": 69,
+      "endPos": 75
+    },
+    {
+      "entity": "budget",
+      "startPos": 134,
+      "endPos": 139
+    }
+  ]
+},{
+  "text": "Get me out of Berlin and to Campinas. Business class flights only. Get me the best hotel in Campinas",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 14,
+      "endPos": 20
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 28,
+      "endPos": 36
+    }
+  ]
+},{
+  "text": "Hi there, my team and I are thinking of going to Monterrey please.",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_destination",
+      "startPos": 49,
+      "endPos": 58
+    }
+  ]
+},{
+  "text": "Hi, I have a big family and we can't afford a big vacation, we want to go to Atlantis from Mos Eisley for $3600 at most.",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 91,
+      "endPos": 101
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 77,
+      "endPos": 85
+    },
+    {
+      "entity": "budget",
+      "startPos": 106,
+      "endPos": 111
+    }
+  ]
+},{
+  "text": "stuck in Beijing, but I need the first flight back to Las Vegas alright?",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 9,
+      "endPos": 16
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 54,
+      "endPos": 63
+    }
+  ]
+},{
+  "text": "9 tickets 2 leon pls",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_destination",
+      "startPos": 12,
+      "endPos": 16
+    }
+  ]
+},{
+  "text": "I only have 1800 in the bank though... can't do anything with that I bet",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "budget",
+      "startPos": 12,
+      "endPos": 16
+    }
+  ]
+},{
+  "text": "SO! I am travelling with my family for a reunion\nWe are all leaving from Beijing and need to get to Toluca.\nThere will be six of us adults travelling and we need to leave between August 24 to August 27.\nWhat can you find me?",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 73,
+      "endPos": 80
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 100,
+      "endPos": 106
+    },
+    {
+      "entity": "date_depart",
+      "startPos": 179,
+      "endPos": 188
+    },
+    {
+      "entity": "date_retour",
+      "startPos": 192,
+      "endPos": 201
+    }
+  ]
+},{
+  "text": "Hi, do you have flights out of Tel Aviv?",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 31,
+      "endPos": 39
+    }
+  ]
+},{
+  "text": "I want to go to San Juan.",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_destination",
+      "startPos": 16,
+      "endPos": 24
+    }
+  ]
+},{
+  "text": "looking to leave Rio de Janeiro for a spell",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 17,
+      "endPos": 31
+    }
+  ]
+},{
+  "text": "I have 0 budget, 16 days vacay, leaving from barcelona and am looking for possible destinations",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 45,
+      "endPos": 54
+    },
+    {
+      "entity": "budget",
+      "startPos": 7,
+      "endPos": 8
+    }
+  ]
+},{
+  "text": "I want to book a travel package to melbourne from puebla",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 50,
+      "endPos": 56
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 35,
+      "endPos": 44
+    }
+  ]
+},{
+  "text": "get me from Buenos Aires to the nicest hotel in Punta Cana. And I mean ASAP!!!!",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 12,
+      "endPos": 24
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 48,
+      "endPos": 58
+    }
+  ]
+},{
+  "text": "I'm looking to book a trip from Hamburg starting August 15th. I have a 14 day vacation. What packages can you recommend?",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 32,
+      "endPos": 39
+    },
+    {
+      "entity": "date_depart",
+      "startPos": 49,
+      "endPos": 60
+    }
+  ]
+},{
+  "text": "I have 0 budget. But big dreams\nI\u2019m heading out from Tampa\nGoing to Campinas\nBut I\u2019m ok with any destination really",
+  "intent": "intention_reserver_un_billet_d_avion",
+  "entities": [
+    {
+      "entity": "ville_depart",
+      "startPos": 53,
+      "endPos": 58
+    },
+    {
+      "entity": "ville_destination",
+      "startPos": 68,
+      "endPos": 76
+    },
+    {
+      "entity": "budget",
+      "startPos": 7,
+      "endPos": 8
+    }
+  ]
+}
+]

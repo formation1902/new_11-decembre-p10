@@ -1,0 +1,127 @@
+original_index,agentRate,wizardSuccess,intent,absent_n,composite,text,ville_depart,ville_destination,date_depart,date_retour,budget
+10783,5.0,True,book,3,a_definir_apres_selection,"Hey. I need to get from Goiania to Hamburg
+Budget isn't an issue, can you just give me the best options?",Goiania,Hamburg,,,
+17566,4.0,True,book,2,a_definir_apres_selection,Is it possible to get from Alexandria to Fukuoka for 3200,Alexandria,Fukuoka,,,3200
+19089,5.0,True,book,3,a_definir_apres_selection,I need to get to Fortaleza from Paris. We will be 2 adults and 7 children,Paris,Fortaleza,,,
+19694,5.0,True,book,4,a_definir_apres_selection,"Hi we live in Miami and are trying to plan our next vacay, can you help?",Miami,,,,
+12292,5.0,True,book,3,a_definir_apres_selection,I want to dream of the best vacations to Santo Domingo from Calgary.,Calgary,Santo Domingo,,,
+15045,5.0,True,book,4,a_definir_apres_selection,"Hi. I'm just here at work.... stuck at the old computer desk
+Stuck dreaming about a better place than this one
+I have been wanting to get out of Santa Cruz for ages now
+But I never have any vacation days..",Santa Cruz,,,,
+16915,5.0,True,book,3,a_definir_apres_selection,"Hello. I have been offered a prestigious, exclusive, international internship
+They are very uncommon
+Very rare and very impressive
+Anyway
+I'm looking to go to Milan from Belem",Belem,Milan,,,
+9309,5.0,True,book,3,a_definir_apres_selection,NYC to St. Louis,NYC,St. Louis,,,
+2881,5.0,True,book,3,a_definir_apres_selection,i am currently in philadelphia trying to get a photograph celebrities but i need to hit up mexico city next week,philadelphia,mexico city,,,
+15164,4.0,True,book,3,a_definir_apres_selection,hi i want to go to toluca from burlington ok,burlington,toluca,,,
+17503,5.0,True,book,2,a_definir_apres_selection,"I need to bring 6 clients out to impress them for a few days. 7 adults in total, and we're looking to leave Queenstown any time after September 20th. What've you got in Rome that sounds swanky.",Queenstown,Rome,September 20th,,
+17425,5.0,True,book,4,a_definir_apres_selection,Need to go to Vancouver,,Vancouver,,,
+6387,5.0,True,book,2,a_definir_apres_selection,I'd like to find a vacation from Kabul to Santiago for 1800. I dont care when i go and it's just me traveling,Kabul,Santiago,,,1800
+6302,4.5,True,book,3,a_definir_apres_selection,"Finally get to take a vacation! I'm looking for trips leaving from Nagoya
+What do you have going to Rome?",Nagoya,Rome,,,
+18194,5.0,True,book,3,a_definir_apres_selection,"I would like you to find me, my wife, and my 4 children, a trip to Guadalajara from Seattle.",Seattle,Guadalajara,,,
+787,5.0,True,book,3,a_definir_apres_selection,Hello there! Looking to get away between August 27th and August 30th! Can you help me?,,,August 27th,August 30th,
+18389,5.0,True,book,4,a_definir_apres_selection,I have 4 kids i want to take on a trip to see their mom in Santa Cruz,,Santa Cruz,,,
+18748,5.0,True,book,4,a_definir_apres_selection,I sure hope! I want to go to Santo Domingo!,,Santo Domingo,,,
+14369,4.0,True,book,2,a_definir_apres_selection,"I need to book a business trip - something impressive... thinking… las vegas
+3 adults find me the best you can out of mannheim after september 11th",mannheim,las vegas,september 11th,,
+16184,5.0,True,book,3,a_definir_apres_selection,I am leaving from Beijing and want to go to Curitiba,Beijing,Curitiba,,,
+15433,4.5,True,book,3,a_definir_apres_selection,"Hey, I'm looking for a trip from Tokyo to Atlanta.",Tokyo,Atlanta,,,
+16043,5.0,True,book,2,a_definir_apres_selection,Hi I want to go to Tijuana from Santo domingo for 2400,Santo domingo,Tijuana,,,2400
+1828,5.0,True,book,4,a_definir_apres_selection,Hi i wanna look into packages to san antonio,,san antonio,,,
+18478,5.0,True,book,0,a_definir_apres_selection,I would like to find a vacation between the 24th and 27th from San Francisco to Fort Lauderdale for 3800,San Francisco,Fort Lauderdale,24th,27th,3800
+2683,5.0,True,book,2,a_definir_apres_selection,whats available in atlanta starting august 30th? we're leaving from north vancouver,north vancouver,atlanta,august 30th,,
+8674,4.0,True,book,3,a_definir_apres_selection,"I have investment meetings in Sao Paulo, the dates are flexible, but I need to get there asap",,Sao Paulo,asap,,
+14754,4.0,True,book,2,a_definir_apres_selection,me and my incredibly fun friends wanna get to phoenix from our homes in Hiroshima for 12800,Hiroshima,phoenix,,,12800
+2087,5.0,True,book,1,a_definir_apres_selection,Hi. I'd like to book a trip from Nagoya to Phoenix from August 15th to August 29th.,Nagoya,Phoenix,August 15th,August 29th,
+3038,5.0,True,book,0,a_definir_apres_selection,"Hey there, I’m looking to check out a few destinations to see if they’ll be appropriate for me to accept an internship in. I want to travel from August 27-30, just enough to get a taste of each location.
+I am leaving from Monterrey and I would like to spend 5200 at most, as my internship is unpaid.
+Is there anything available to Kobe for these dates and price?",Monterrey,Kobe,August 27,30,5200
+16706,5.0,True,book,2,a_definir_apres_selection,I want to go to Hamburg from Washington. no more than 1000.,Washington,Hamburg,,,1000
+12217,5.0,True,book,3,a_definir_apres_selection,Hi there. I'd like to go to somewhere new. departing from Rome. after September 8,Rome,,September 8,,
+15993,5.0,True,book,4,a_definir_apres_selection,I wanna go to San Juan,,San Juan,,,
+15201,5.0,True,book,4,a_definir_apres_selection,"HaaaAAAaaaYYYY. I’m just a normal girl, just like everybody else, I just wanna go to Monterrey ok??",,Monterrey,,,
+12572,5.0,True,book,4,a_definir_apres_selection,"you do vacation deals out of rome, yes?",rome,,,,
+14006,5.0,True,book,2,a_definir_apres_selection,I’d like to see where I can go from Hiroshima. Between now and September 5,Hiroshima,,now,September 5,
+12424,5.0,True,book,3,a_definir_apres_selection,"Hi. going to throw a bunch of options at you, try to keep up
+Firstly want to know about trips from Seattle to Belo Horizonte",Seattle,Belo Horizonte,,,
+13309,4.0,True,book,3,a_definir_apres_selection,"I'm so excited, I get to take my entire team anywhere I want! Money is no object. Just gotta make it fit into out busy schedule. We can only go between August 31 and September 3rd.",,,August 31,September 3rd,
+15267,4.5,True,book,4,a_definir_apres_selection,"Hi there, I'm looking to go to Stuttgart please.",,Stuttgart,,,
+9569,4.0,True,book,1,a_definir_apres_selection,"hey so i need 2 get my parents out of town. where can u ship em between septemeber 2 and 13th for 3500 dollars?
+leaving from montreal ",montreal,,septemeber 2,13th,3500 dollars
+3844,5.0,True,book,3,a_definir_apres_selection,Hi I work for a big multinational corporation and they are sending me to San Diego. I'm presently working out of Tokyo.,Tokyo,San Diego,,,
+3544,5.0,True,book,4,a_definir_apres_selection,If we can find something for less than 3000$ lets try and book something,,,,,3000$
+12925,5.0,True,book,3,a_definir_apres_selection,"My secretary is on vacation so I have to book my own flights today. Definitely feels strange
+Please book: San Diego to Rome",San Diego,Rome,,,
+8619,4.0,True,book,0,a_definir_apres_selection,"Hi there. I need to go from Beijing to Montreal from Sept 12-16
+1800 max",Beijing,Montreal,Sept 12,16,1800
+10919,5.0,True,book,1,a_definir_apres_selection,"London to Burlington. Sept 12 to 25
+For one
+Got anything?",London,Burlington,Sept 12,25,
+4536,4.5,True,book,2,a_definir_apres_selection,Hello! I want to book a trip for two adults and two children from August 25th to August 31st. We have several destinations in mind. Do you have any packages for Manaus?,,Manaus,August 25th,August 31st,
+19603,5.0,True,book,4,a_definir_apres_selection,"Hi there, I'd like to take my grandkids on vacation to Brasilia.",,Brasilia,,,
+12069,4.0,True,book,3,a_definir_apres_selection,i wanna go 2 santa cruz from kabul,kabul,santa cruz,,,
+14820,4.0,True,book,3,a_definir_apres_selection,Me and my terrific wife are actually getting married in Porto and wanna honeymoon in Montreal,Porto,Montreal,,,
+12107,5.0,True,book,3,a_definir_apres_selection,Baltimore to Sacramento,Baltimore,Sacramento,,,
+8578,5.0,True,book,3,a_definir_apres_selection,"Kabul to Kingston, 11 adults",Kabul,Kingston,,,
+2242,5.0,True,book,4,a_definir_apres_selection,Hi I live in Seattle and I really have to get out of this seedy town for a while,Seattle,,,,
+9903,4.0,True,book,3,a_definir_apres_selection,I need a booking for 6 adults from Milan to Punta Cana,Milan,Punta Cana,,,
+11813,5.0,True,book,2,a_definir_apres_selection,I’m trying to get from Milan to a bunch of different possible internship spots. It needs to be both between Aug 31 and Sept 3,Milan,,Aug 31,Sept 3,
+1744,5.0,True,book,3,a_definir_apres_selection,"Hello. i want to go to buenos aires
+i live in puebla",puebla,buenos aires,,,
+17973,5.0,True,book,4,a_definir_apres_selection,"Hi there, I really want to go to Osaka but don't really know what kind of trip I want. I heard from my friend you guys have a wide range of offerings so I want to check out what are the availabilities for Osaka.",,Osaka,,,
+7761,5.0,True,book,3,a_definir_apres_selection,Hey hey. Got 6 days off starting Sept 8. Flying out from Cleveland. Got any recommendations?,Cleveland,,Sept 8,,
+11471,5.0,True,book,3,a_definir_apres_selection,"hey, i would like to find an affordable package to Hiroshima from Alexandria.",Alexandria,Hiroshima,,,
+11962,5.0,True,book,3,a_definir_apres_selection,I want to go to brasilia from birmingham,birmingham,brasilia,,,
+18422,5.0,True,book,2,a_definir_apres_selection,I want to look at trips from San Jose to Dublin for 3500 and under.,San Jose,Dublin,,,3500
+3292,5.0,True,book,3,a_definir_apres_selection,I would like to find a trip to Punta Cana :slightly_smiling_face: I am leaving from :slightly_smiling_face: Birmingham :slightly_smiling_face:,Birmingham,Punta Cana,,,
+7825,5.0,True,book,1,a_definir_apres_selection,Burlington to Busan. Aug 30 to Sept 10. Got a flight dude?,Burlington,Busan,Aug 30,Sept 10,
+15688,5.0,True,book,3,a_definir_apres_selection,"I would like to find a hotel near a park, ideally. I only have 4500 between me and my assistant. We were thinking about looking for trips to Manaus first, we can leave from anywhere.",,Manaus,,,4500
+19712,5.0,True,book,3,a_definir_apres_selection,"Hey I'm thinking of going from St. Petersburg to Hamburg, can you help me?",St. Petersburg,Hamburg,,,
+17537,5.0,True,book,3,a_definir_apres_selection,buenos aires pls i go from mannheim,mannheim,buenos aires,,,
+5861,5.0,True,book,4,a_definir_apres_selection,ok book it for 5. we’ll leave from san diego,san diego,,,,
+11278,5.0,True,book,3,a_definir_apres_selection,"Hi there. I need to go to Tel Aviv for a meeting
+Are there any flights from Paris?",Paris,Tel Aviv,,,
+10621,5.0,True,book,1,a_definir_apres_selection,Please find a flight from Beijing to Kochi for me. Sept 16 to 20,Beijing,Kochi,Sept 16,20,
+16074,4.0,True,book,4,a_definir_apres_selection,"Rio de Janeiro to anywhere, stat. ",Rio de Janeiro,,,,
+3888,1.0,True,book,4,a_definir_apres_selection,Hi looking to book a trip to SL,,SL,,,
+10153,5.0,True,book,2,a_definir_apres_selection,"Hi , looking for a business class package to Philadelphia, leaving Ciudad Juarez, after August 31st",Ciudad Juarez,Philadelphia,August 31st,,
+2555,5.0,True,book,4,a_definir_apres_selection,"Bonjour! I make ze pastry for a living. I need to travel to Ulsan, a buddy of a buddy of an aunt's 3rd husband has ze most extrodinary recipe that I must get.",,Ulsan,,,
+18082,5.0,True,book,4,a_definir_apres_selection,I want to go on a vacation from Munich.,Munich,,,,
+13111,5.0,True,book,4,a_definir_apres_selection,I need to go to Buenos Aires.,,Buenos Aires,,,
+2967,5.0,True,book,3,a_definir_apres_selection,Why hello there! Can you see what's available for North Vancouver from Sydney?,Sydney,North Vancouver,,,
+1907,4.0,True,book,2,a_definir_apres_selection,Hi! I'm looking to book a trip from Termina to Atlantis with my family. This includes 1 adult and 3 kids. My budget is at most $3300.,Termina,Atlantis,,,$3300
+7434,5.0,True,book,1,a_definir_apres_selection,"Hi there, I’m off between August 25 and September 11. I saved up 4000 for a nice trip. If I flew out from San Francisco, what are your suggestions for where I can go?",San Francisco,,August 25,September 11,4000
+11744,5.0,True,book,3,a_definir_apres_selection,"u do buenos aires to hiroshima, and if so at what cost",buenos aires,hiroshima,,,
+3732,5.0,True,book,4,a_definir_apres_selection,"Hi, I am the team manager for the Phoenix Sportsteam and I need to book the guys a short vacation, they need to relax for a few days. We are having a crappy season.",Phoenix,,,,
+17593,5.0,True,book,4,a_definir_apres_selection,"Boy oh boy! I got these 3 clients and these guys gotta have the best of the best, don't ask me why! So what do you have in Dublin that will impress the fellas?",,Dublin,,,
+11216,5.0,True,book,3,a_definir_apres_selection,I don't care what you've been programmed to call yourself. Just get me from London to Cairo.,London,Cairo,,,
+5845,5.0,True,book,3,a_definir_apres_selection,august 25-september 3,,,august 25,september 3,
+18584,2.0,True,book,3,a_definir_apres_selection,I need to go to beijing from Atlanta,Atlanta,beijing,,,
+17700,5.0,True,book,3,a_definir_apres_selection,"I need to book 4 kids and one adult to Rio de Janeiro, departing from Queenstown.",Queenstown,Rio de Janeiro,,,
+6352,5.0,True,book,0,a_definir_apres_selection,Hi! I'd like to book a trip to Tel Aviv from Tijuana. I was wondering if there are any packages from August 23rd to 26th for $3400 for 2 adults. My dates are also flexible.,Tijuana,Tel Aviv,August 23rd,26th,$3400
+7958,5.0,True,book,1,a_definir_apres_selection,THIS IS WHAT I NEED: TIX FOR 3 ADULTS FROM BERLIN TO SENDAI. LEAVING SEPT 2 OR SOMETIME CLOSE AFTER THAT. CAN I GET THIS DONE FOR &lt;$2400?,BERLIN,SENDAI,Sept 2,,$2400
+6780,5.0,True,book,3,a_definir_apres_selection,Get me out of Berlin and to Campinas. Business class flights only. Get me the best hotel in Campinas,Berlin,Campinas,,,
+19514,5.0,True,book,4,a_definir_apres_selection,"Hi there, my team and I are thinking of going to Monterrey please.",,Monterrey,,,
+175,5.0,True,book,2,a_definir_apres_selection,"Hi, I have a big family and we can't afford a big vacation, we want to go to Atlantis from Mos Eisley for $3600 at most.",Mos Eisley,Atlantis,,,$3600
+9935,4.0,True,book,3,a_definir_apres_selection,"stuck in Beijing, but I need the first flight back to Las Vegas alright?",Beijing,Las Vegas,,,
+8974,3.0,True,book,4,a_definir_apres_selection,9 tickets 2 leon pls,,leon,,,
+18113,5.0,True,book,4,a_definir_apres_selection,I only have 1800 in the bank though... can't do anything with that I bet,,,,,1800
+7184,5.0,True,book,1,a_definir_apres_selection,"SO! I am travelling with my family for a reunion
+We are all leaving from Beijing and need to get to Toluca.
+There will be six of us adults travelling and we need to leave between August 24 to August 27.
+What can you find me?",Beijing,Toluca,August 24,August 27,
+9804,4.0,True,book,4,a_definir_apres_selection,"Hi, do you have flights out of Tel Aviv?",Tel Aviv,,,,
+15420,5.0,True,book,4,a_definir_apres_selection,I want to go to San Juan.,,San Juan,,,
+6948,5.0,True,book,4,a_definir_apres_selection,looking to leave Rio de Janeiro for a spell,Rio de Janeiro,,,,
+12006,5.0,True,book,3,a_definir_apres_selection,"I have 0 budget, 16 days vacay, leaving from barcelona and am looking for possible destinations",barcelona,,,,0
+4253,3.0,True,book,3,a_definir_apres_selection,I want to book a travel package to melbourne from puebla,puebla,melbourne,,,
+6861,5.0,True,book,3,a_definir_apres_selection,get me from Buenos Aires to the nicest hotel in Punta Cana. And I mean ASAP!!!!,Buenos Aires,Punta Cana,,,
+2011,5.0,True,book,3,a_definir_apres_selection,I'm looking to book a trip from Hamburg starting August 15th. I have a 14 day vacation. What packages can you recommend?,Hamburg,,August 15th,,
+13347,5.0,True,book,2,a_definir_apres_selection,"I have 0 budget. But big dreams
+I’m heading out from Tampa
+Going to Campinas
+But I’m ok with any destination really",Tampa,Campinas,,,0
