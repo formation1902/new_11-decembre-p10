@@ -1,0 +1,36 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "groupName": {
+            "value": "msa-p10-NewRG"
+        },
+        "groupLocation": {
+            "value": "france central"
+        },
+        "appServiceName": {
+            "value": "msa-p10-appServiceName-svc-name"
+        },
+        "appServicePlanName": {
+            "value": "msa-p10-appServiceName-svc-plan"
+        },
+        "appServicePlanLocation": {
+            "value": "France central"
+        },
+        "appServicePlanSku": {
+            "value": {
+                "name": "S1",
+                "tier": "Standard",
+                "size": "S1",
+                "family": "S",
+                "capacity": 1
+            }
+        },
+        "appId": {
+            "value": ""
+        },
+        "appSecret": {
+            "value": "msaSecret1902"
+        }
+    }
+}
